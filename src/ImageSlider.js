@@ -9,5 +9,5 @@ class ImageSlider extends React.Component {
       return (
         `I am on slide ${this.state.currentSlideIndex}`
       )
-    } 
+    }
   }

@@ -3,6 +3,6 @@ class ImageSlider extends React.Component {
   constructor() {
     super()
     this.state = {
-      count: props.someValue
+      count: this.props.initialCount
     }
   }
